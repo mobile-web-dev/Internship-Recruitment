@@ -3,7 +3,15 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: document
+  path: readme.md
+  label: Read Me
+  match: "**/*"
+- type: document
+  path: opportunities.md
+  label: Oppurtunities
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
