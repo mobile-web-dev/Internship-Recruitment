@@ -1,6 +1,6 @@
 # Internship-Recruitment 
 
-Internship Recruitment Drive is an initiave by [Mobile-web.dev](https://mobile-web.dev/) to create a platform where companies, recruiters and students can have access to internship and career opportunities.
+Internship Recruitment Drive is an initiative by [Mobile-web.dev](https://mobile-web.dev/) to create a platform where companies, recruiters and students can have access to internship and career opportunities.
 
 ## For Organisations
 
